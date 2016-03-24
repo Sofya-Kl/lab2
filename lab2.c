@@ -20,7 +20,7 @@ int main()
 		x1 = (-b + sqrt(d)) / 2 * a;
 		x2 = (-b - sqrt(d)) / 2 * a;
 		printf("x1=%.2lf.\n", x1);
-		printf("x1=%.2lf.\n", x2);
+		printf("x2=%.2lf.\n", x2);
 	}
 	return 0;
 }
