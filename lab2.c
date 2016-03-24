@@ -18,7 +18,7 @@ int main()
 	if (d > 0)
 	{
 		x1 = (-b + sqrt(d)) / 2 * a;
-		x1 = (-b - sqrt(d))/ 2 * a;
+		x1 = (-b - sqrt(d)) / 2 * a;
 		printf("x1=%.2lf.\n", x1);
 		printf("x1=%.2lf.\n", x1);
 	}
